@@ -88,6 +88,9 @@ python test/agent.py
 
 > **Note:** Each agent/module may have its own entry point or usage instructions. Refer to the code or add more details as needed.
 
+<<<<<<< HEAD
 ## License
 
 This project is for demonstration purposes.
+=======
+>>>>>>> e0b3f1b7c99ea9bcea1f038820855d4684a5f25d
