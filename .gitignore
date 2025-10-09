@@ -82,3 +82,4 @@ Desktop.ini
 venv/
 .env
 __pycache__/
+.git/objects

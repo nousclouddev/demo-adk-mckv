@@ -2,7 +2,6 @@ import copy  # For deepcopy
 import re
 from typing import Any, Dict, Optional
 
-
 from google.adk.agents import Agent as LlmAgent
 from google.adk.agents.callback_context import CallbackContext
 from google.adk.models import LlmResponse
